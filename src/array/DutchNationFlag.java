@@ -11,7 +11,7 @@ public class DutchNationFlag extends ElementsOfProgramming {
     @Override
     void initDetail() {
         questionNumber = 6.1f;
-        leetCodeUrl = "";
+        leetCodeUrl = "https://leetcode.com/problems/sort-colors/";
         pageNumber = 59;
     }
 
